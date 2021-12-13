@@ -1,0 +1,12 @@
+# Shitty tools
+.idea
+.vscode
+.project
+.cproject
+
+# CMAKE
+build
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile

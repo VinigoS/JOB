@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    .gitignore                                         :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: Kashnitskiy <elijahkash.code@gmail.com>    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created:                     by mtrisha           #+#    #+#              #
+#    Updated:                     by Kashnitskiy      ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+.DS_Store
+.vscode/settings.json
+
+/tmp
+/test/test
+*.a
+
+# This is for valgrind
+*.dSYM
+*.out.*
